@@ -6,7 +6,7 @@ Soy ingeniera civil reinventándome como desarrolladora. Me apasiona crear soluc
 - **Frontend:** JavaScript, React, HTML, CSS
 - **Backend:** Node.js, Express
 - **Bases de datos:** MongoDB
-- **Actualmente aprendiendo:** TypeScript y mejores prácticas de desarrollo Full Stack.
+- **Actualmente aprendiendo:** Mejores prácticas de desarrollo Full Stack.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
