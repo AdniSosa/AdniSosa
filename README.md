@@ -40,8 +40,11 @@ Aplicación para guardar y organizar muebles por estancia, con información como
 - ABAP para desarrollo de ERP y automatización de procesos empresariales
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdniSosa&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdniSosa&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdniSosa&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdniSosa&layout=compact" />
+</p>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adniloetsosa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bci3KR8CvTUaxrYBbTflkiw%3D%3D) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adni.sori@gmail.com)
