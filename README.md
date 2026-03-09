@@ -16,9 +16,9 @@ Soy desarrolladora Full Stack con formación en ingeniería civil y una fuerte o
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🎯 Objetivo
-Seguir creciendo como Full Stack Developer, creando proyectos que tengan un impacto real y mejoren la vida de las personas.
+Seguir creciendo como desarrolladora, combinando desarrollo Full Stack con tecnologías empresariales como ABAP, y creando soluciones que aporten valor real a las personas y a las empresas.
 
-  ## Proyectos Destacados
+## 💻 Proyectos Destacados
 
 ### Sistema de reservas online
 
